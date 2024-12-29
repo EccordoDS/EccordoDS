@@ -1,24 +1,20 @@
-# Привет! Я EccordoDS👋
+# Hello! I'm EccordoDS 👋
 
-## О себе
+## About Me
+I am Tselobanov Nikolay, a developer and technology enthusiast. I am passionate about web development and creating interactive applications. In this profile, you will find projects I have worked on, as well as some of my ideas and experiments in both frontend and backend development.
 
-Я — **Tselobanov Nikolay** разработчик и энтузиаст технологий. Я увлечен веб-разработкой и созданием интерактивных приложений. В этом профиле вы найдете проекты, над которыми я работал, а также некоторые из моих идей и экспериментов в области frontend и backend разработки.
+## 🌱 Current Interests
+- Developing web applications using HTML, CSS, and JavaScript.
+- Learning React for creating interactive interfaces and Node.js for server-side development.
 
-## 🌱 Текущие интересы
+## 💻 My Skills
+- **Programming Languages**: JavaScript, Python
+- **Frameworks and Libraries**: jQuery, Bootstrap
+- **Tools**: Git, npm, Webpack, Docker
+- **Basics**: Knowledge of responsive design principles, basics of working with RESTful APIs
 
-- Разработка веб-приложений с использованием **HTML**, **CSS** и **JavaScript**.
-- Изучение **React** для создания интерактивных интерфейсов и **Node.js** для работы с сервером.
-
-## 💻 Мои навыки
-
-- **Языки программирования**: JavaScript, Python
-- **Фреймворки и Библиотеки**:  jQuery, Bootstrap
-- **Инструменты**: Git, npm, Webpack, Docker
-- **Основы**: Знание принципов адаптивного дизайна, Основы работы с RESTful API
-
-## 📫 Как со мной связаться
-
+## 📫 How to Contact Me
 - **Email**: Tselobanovn@gmail.com
-- **Telegram**: (https://t.me/eccordo3)
+- **Telegram**: [https://t.me/eccordo3](https://t.me/eccordo3)
 
-Спасибо за посещение моего профиля! Надеюсь, вам понравится то, что вы увидите! 😊
+Thank you for visiting my profile! I hope you enjoy what you see! 😊
