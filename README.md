@@ -1,6 +1,6 @@
 # Hello! I'm EccordoDS 👋
 
-## About Me
+## 📄 About Me
 I am Tselobanov Nikolay, a developer and technology enthusiast. I am passionate about web development and creating interactive applications. In this profile, you will find projects I have worked on, as well as some of my ideas and experiments in both frontend and backend development.
 
 ## 🌱 Current Interests
