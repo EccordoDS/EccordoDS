@@ -1,5 +1,5 @@
 # Hello! I'm EccordoDS 👋
-I'm a ** Frontend Developer** passionate about building clean and responsive web apps with **React** and **TypeScript**.  
+I'm a **Frontend Developer** passionate about building clean and responsive web apps with **React** and **TypeScript**.  
 
 ---
 
