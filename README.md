@@ -19,7 +19,6 @@ Small React & TypeScript apps demonstrating UI and interactivity.
 ## 📫 Contact
 
 - **Email:** tselobanovn@gmail.com  
-- **Telegram:** [@tselobanov](https://t.me/tselobanov)  
 - **GitHub:** [https://github.com/EccordoDS](https://github.com/EccordoDS)
 
 ---
